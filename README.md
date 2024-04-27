@@ -6,6 +6,7 @@ Welcome to the Todo List Application! This simple app helps you keep track of yo
 
 - **Add Task**: Enter a task in the input field and click the "Add Task" button to add it to the list.
 - **Delete Task**: Remove a task from the list by clicking on the delete button (✖️) next to it.
+- **Mark Tasks as Completed**: Simply click on a task to mark it as done.
 
 ## Usage
 
